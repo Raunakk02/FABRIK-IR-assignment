@@ -23,3 +23,5 @@ total iterations:  5
 [1.7155037677140892, 1.0233019217018822], [2.0005923974150077, 3.00411601525414]
 
 ```
+
+![output](https://user-images.githubusercontent.com/56073198/113427640-07ac4b00-93f3-11eb-98fb-9c330aa76d02.png)
